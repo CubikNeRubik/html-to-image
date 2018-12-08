@@ -2,6 +2,13 @@
 logs
 *.log
 npm-debug.log*
+assets/*
+preloader.css
+style.css
+
+svg.html
+test.html
+index.html
 
 # Runtime data
 pids
